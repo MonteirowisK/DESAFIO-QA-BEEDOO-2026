@@ -17,6 +17,9 @@ Link dos cenários de teste Google Sheets - https://docs.google.com/spreadsheets
 Link do Drive com as evidências de teste - https://drive.google.com/drive/folders/1RMhW3TGA_hBAXK_oedtmG1LwS0VpfSUG?usp=sharing
 --------------------------------------------------------------
 Bug-01: Falha ao impedir o cadastro de curso duplicado - Sistema deveria impedir o cadastro de um curso com os mesmos dados de outro já existente. |Severidade Alta| |Prioridade Alta|
+--------------------------------------------------------------
 Bug-02: Falha ao impedir o cadastro de curso com dados obrigatórios faltantes - Sistema deveria impedir o cadastro ao não serem preenchidos todos os campos obrigatórios. |Severidade Alta| |Prioridade Alta|
+--------------------------------------------------------------
 Bug-03: Falha ao impedir o cadastro de um curso com número negativo de vagas - Sistema deveria impedir o cadastro ao ser inserido um formato negativo no campo "Número de vagas". |Severidade Média| |Prioridade Média|
+--------------------------------------------------------------
 Bug-04: Falha ao realizar a exclusão de um curso cadastrado na lista - Sistema deveria mostrar uma mensagem de sucesso relativo a exclusão do curso e remove-lo da lista de cursos cadastrados. |Severidade Alta| |Prioridade Alta|
