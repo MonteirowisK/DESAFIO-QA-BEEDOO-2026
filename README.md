@@ -23,3 +23,4 @@ Bug-02: Falha ao impedir o cadastro de curso com dados obrigatórios faltantes -
 Bug-03: Falha ao impedir o cadastro de um curso com número negativo de vagas - Sistema deveria impedir o cadastro ao ser inserido um formato negativo no campo "Número de vagas". |Severidade Média| |Prioridade Média|
 --------------------------------------------------------------
 Bug-04: Falha ao realizar a exclusão de um curso cadastrado na lista - Sistema deveria mostrar uma mensagem de sucesso relativo a exclusão do curso e remove-lo da lista de cursos cadastrados. |Severidade Alta| |Prioridade Alta|
+--------------------------------------------------------------
